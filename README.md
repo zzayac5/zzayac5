@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zach! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Zach! <br/><a href="https://codeinplace.stanford.edu/cip5/certificate/8celac">Learning Python</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Learning Every Day</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
