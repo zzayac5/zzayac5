@@ -5,25 +5,21 @@
 - <b> Businesses </b>
   - [Win The War Consulting : A team management consultancy and startup founder coaching company](https://winthewar.co)
   - [Relics : Helping people use AI to extend their influence through telling their story](https://www.relics.life)
-- <b>TBD</b>
-  - [TBD](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [TBD](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [TBD](https://github.com/joshmadakor1/AD_PS)
-  - [TBD)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b> Learning RAG from scratch using frameworks </b>
+  - [RAG](https://github.com/zzayac5/Learning_RAG)
+- <b> Automations and low/nocode builds </b>
+  - [RAG](https://github.com/zzayac5/Learning_RAG)
 - <b>Learn AI/ML through projects</b>
-  - [Iris Classification](https://github.com/zzayac5/Learn_ai_now/blob/main/Iris_Classification.py)
-  - [TBD](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Iris](https://github.com/zzayac5/Learn_ai_now/blob/main/Iris_Classification.py)
   - [TBD](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Learning Python](https://github.com/zzayac5/Learning_python)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x.com/Zach_Zayac
+
 [linkedin]: https://www.linkedin.com/in/zachary-zayac-90820a48/
 
 <!--
