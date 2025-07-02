@@ -2,18 +2,21 @@
 
 <h2>👨‍💻 Self Development Projects:</h2>
 
-- <b> Businesses </b>
-  - [Win The War Consulting : A team management consultancy and startup founder coaching company](https://winthewar.co)
-  - [Relics : Helping people use AI to extend their influence through telling their story](https://www.relics.life)
+- <b>Python through projects</b>
+  - [Learning Python](https://github.com/zzayac5/Learning_python)
 - <b> Learning RAG from scratch using frameworks </b>
   - [RAG](https://github.com/zzayac5/Learning_RAG)
 - <b> Automations and low/nocode builds </b>
-  - [RAG](https://github.com/zzayac5/Learning_RAG)
+  - [Make](https://github.com/zzayac5/Automation_projects)
+  - [n8n](https://github.com/zzayac5/Automation_projects)
 - <b>Learn AI/ML through projects</b>
   - [Iris](https://github.com/zzayac5/Learn_ai_now/blob/main/Iris_Classification.py)
   - [TBD](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Learning Python](https://github.com/zzayac5/Learning_python)
+- <b>Other Learning</b>
+  - [Notion](https://github.com/zzayac5/Learn_ai_now/blob/main/Iris_Classification.py)
+- <b> Businesses </b>
+  - [Win The War Consulting : A team management consultancy and startup founder coaching company](https://winthewar.co)
+  - [Relics : Helping people use AI to extend their influence through telling their story](https://www.relics.life)
 
 <h2> 🤳 Connect with me:</h2>
 
