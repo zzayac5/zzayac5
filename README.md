@@ -13,7 +13,7 @@
   - [Iris](https://github.com/zzayac5/Learn_ai_now/blob/main/Iris_Classification.py)
   - [TBD](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Other Learning</b>
-  - [Notion](https://github.com/zzayac5/Learn_ai_now/blob/main/Iris_Classification.py)
+  - [Notion](https://lyrical-firefly-277.notion.site/Welcome-to-My-Learning-and-Self-Development-Hub-2196871c567880d1ad4adb37b1673d76)
 - <b> Businesses </b>
   - [Win The War Consulting : A team management consultancy and startup founder coaching company](https://winthewar.co)
   - [Relics : Helping people use AI to extend their influence through telling their story](https://www.relics.life)
