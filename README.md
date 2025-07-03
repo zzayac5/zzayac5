@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zach! <br/><a href="https://codeinplace.stanford.edu/cip5/certificate/8celac">Learning Python</a>, <a href="https://www.lineofdeparture.army.mil/Journals/Field-Artillery/FA-2024-Issue-2/-Beyond-destruction/"> Warrant Officer </a>, <a href="https://lyrical-firefly-277.notion.site/Welcome-to-My-Learning-and-Self-Development-Hub-2196871c567880d1ad4adb37b1673d76"> Enjoy learning </a>, <a href="https://winthewar.co/">Entreprenuer</a>, <a href="https://www.relics.life"> Building things to solve real problems </a> </h1>
+<h1>Hi, I'm Zach! <br/><a href="https://codeinplace.stanford.edu/cip5/certificate/8celac">Learning Python</a>, <a href="https://www.lineofdeparture.army.mil/Journals/Field-Artillery/FA-2024-Issue-2/-Beyond-destruction/"> Warrant Officer </a>, <a href="https://lyrical-firefly-277.notion.site/Welcome-to-My-Learning-and-Self-Development-Hub-2196871c567880d1ad4adb37b1673d76"> Enjoy learning </a>, <a href="https://winthewar.co/">Entreprenuership coach</a>, <a href="https://www.relics.life"> Building things with AI</a> </h1>
 
 <h2>👨‍💻 Self Development Projects:</h2>
 
