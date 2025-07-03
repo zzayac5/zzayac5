@@ -4,6 +4,7 @@
 
 - <b>Python through projects</b>
   - [Learning Python](https://github.com/zzayac5/Learning_python)
+  - [My Code In Place Final Project](https://codeinplace.stanford.edu/cip5/share/uIeytr79GxPGDgvDcEX4)
 - <b> Learning RAG from scratch using frameworks </b>
   - [RAG](https://github.com/zzayac5/Learning_RAG)
 - <b> Automations and low/nocode builds </b>
