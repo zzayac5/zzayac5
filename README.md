@@ -8,7 +8,8 @@
   - [My Code In Place Final Project Code Base](https://github.com/zzayac5/Learning_python/blob/main/finalproject.py)
 - <b> Learning RAG from scratch using frameworks </b>
   - [RAG](https://github.com/zzayac5/Learning_RAG)
-- <b> Automations and low/nocode builds </b>
+- <b> Automations with Agents or low/nocode builds </b>
+  - [Agentic AI](https://github.com/zzayac5/MyFirstAgentBuild)
   - [Make](https://github.com/zzayac5/Automation_projects)
   - [n8n](https://github.com/zzayac5/Automation_projects)
 - <b>Learn AI/ML through projects</b>
