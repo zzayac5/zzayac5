@@ -6,10 +6,10 @@
   - [Learning Python](https://github.com/zzayac5/Learning_python)
   - [My Code In Place Final Project - Play the Game](https://codeinplace.stanford.edu/cip5/share/uIeytr79GxPGDgvDcEX4)
   - [My Code In Place Final Project Code Base](https://github.com/zzayac5/Learning_python/blob/main/finalproject.py)
-- <b> Learning RAG from scratch using frameworks </b>
+- <b> Learn RAG through projects </b>
   - [RAG](https://github.com/zzayac5/Learning_RAG)
 - <b> Automations with Agents or low/nocode builds </b>
-  - [Agentic AI](https://github.com/zzayac5/MyFirstAgentBuild)
+  - [MCP and Agents](https://github.com/zzayac5/MyFirstAgentBuild)
   - [Make](https://github.com/zzayac5/Automation_projects)
   - [n8n](https://github.com/zzayac5/Automation_projects)
 - <b>Learn AI/ML through projects</b>
