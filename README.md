@@ -1,7 +1,8 @@
 <h1>Hi, I'm Zach! 
 <br/> <a/> I am a proud Girl Dad and Husband<a/>
-<br/><a href="https://lyrical-firefly-277.notion.site/21a6871c567880bca499c68e351771f0?v=21a6871c56788087b287000cdf23015e">I am in constant pursuit of learning</a>, 
-<br/><a href="https://www.lineofdeparture.army.mil/Journals/Field-Artillery/FA-2024-Issue-2/-Beyond-destruction/"> Serving the U.S. as an Army Warrant Officer (131A) </a>,
+<br/><a href="https://lyrical-firefly-277.notion.site/21a6871c567880bca499c68e351771f0?v=21a6871c56788087b287000cdf23015e">I am in constant pursuit of learning</a>,
+<br/><a>Right now I am learning Backend Development with boot.dev and Systems Engineering @JHU </a>
+<br/><a href="https://www.lineofdeparture.army.mil/Journals/Field-Artillery/FA-2024-Issue-2/-Beyond-destruction/"> U.S. Army Warrant Officer (131A) </a>,
 <br/> <a href="https://lyrical-firefly-277.notion.site/27d6871c56788001be8df7600afd78d1?v=27d6871c5678805c81ea000ccb9bada2"> I enjoy writing and sharing my thoughts </a>, 
 <br/> <a href="https://winthewar.co/">I coach high performers, startup founders, and entrepreneurs </a>, 
 <br/> I am looking to build the future I want for my children and I with AI.</a></h1>
