@@ -16,7 +16,7 @@
   - [My Code In Place Final Project - Play the Game](https://codeinplace.stanford.edu/cip5/share/uIeytr79GxPGDgvDcEX4)
   - [My Code In Place Final Project Code Base](https://github.com/zzayac5/Learning_python/blob/main/finalproject.py)
 - <b>Other Learning</b>
-  - [Notion](https://lyrical-firefly-277.notion.site/Welcome-to-My-Learning-and-Self-Development-Hub-2196871c567880d1ad4adb37b1673d76)
+  - [Notion](https://lyrical-firefly-277.notion.site/Hi-I-m-Zach-2ff6871c567880ce9cd6dc8b625475f9)
 - <b> Businesses </b>
   - [Win The War Consulting : A team management consultancy and startup founder coaching company](https://winthewar.co)
 - <b> My Published Writing </b>
