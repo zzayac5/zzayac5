@@ -1,8 +1,8 @@
-<h1>Hi, I'm Zach! 
-<br/> <a/> I am a proud Girl Dad, Husband, Army Officer, Business Owner, & maybe a Founder .. kinda <a/>
-<br/><a href="https://lyrical-firefly-277.notion.site/Hi-I-m-Zach-2ff6871c567880ce9cd6dc8b625475f9">I am in constant pursuit of learning</a>,
-<br/><a href= "https://lyrical-firefly-277.notion.site/21a6871c567880bca499c68e351771f0?v=21a6871c56788087b287000cdf23015e&pvs=74"> Right now I am learning Backend Development, git, linux, and AI. 
-<br/><a href= "https://www.jhu.edu"> Systems Engineering @JHU, </a>
+<h1><a href="https://justzachz.com"> Hi, I'm Zach!
+<br/> <a/> I am a proud Girl Dad, Husband, Army Officer, Business Owner, Student, Tinker-er <a/>
+
+<br/><a href= "https://www.jhu.edu"> I am studying Systems Engineering @JHU, </a>
+<br/> <a> I have a Masters of Arts in Management with a focus in IT Project Management, </a>, 
 <br/> <a> I enjoy writing and sharing my thoughts, </a>, 
 <br/> <a href="https://winthewar.co/">I coach high performers, startup founders, and entrepreneurs, </a>, 
 <br/> I am looking to build the future I want for my children with AI.</a></h1>
@@ -16,8 +16,6 @@
   - [Learning Python](https://github.com/zzayac5/Learning_python)
   - [My Code In Place Final Project - Play the Game](https://codeinplace.stanford.edu/cip5/share/uIeytr79GxPGDgvDcEX4)
   - [My Code In Place Final Project Code Base](https://github.com/zzayac5/Learning_python/blob/main/finalproject.py)
-- <b>Other Learning</b>
-  - [Notion](https://lyrical-firefly-277.notion.site/Hi-I-m-Zach-2ff6871c567880ce9cd6dc8b625475f9)
 - <b> Businesses </b>
   - [Win The War Consulting : A team management consultancy and startup founder coaching company](https://winthewar.co)
 - <b> Vibe Coded Projects </b>
